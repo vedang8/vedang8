@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/vedang26" target="blank"><img src="https://img.shields.io/twitter/follow/vedang26?logo=twitter&style=for-the-badge" alt="vedang26" /></a> </p>
 
-- 🌱 I’m currently learning **MERN, Devops**
+- 🌱 I’m currently learning **RAG, Agentic AI**
 
 - 📫 How to reach me **vedang2607@gmail.com**
 
