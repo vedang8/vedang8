@@ -75,15 +75,6 @@
 
 ---
 
-<p align="center">
-  <a href="https://leetcode.com/vedang_joshi/">
-    <img src="https://img.shields.io/badge/LeetCode-500%2B%20Problems-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
-  </a>
-  <img src="https://img.shields.io/badge/Max%20Contest%20Rating-1571-blue?style=for-the-badge" />
-</p>
-
----
-
 ### 🤝 Connect With Me
 
 <p align="left">
